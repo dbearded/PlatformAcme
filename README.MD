@@ -2,7 +2,7 @@
 This App matches Shipments to Drivers based on a Top-Secret suitability score such that the global
 score is maximized across all drivers (aka fleet). If there are more drivers than shipments, then
 a message "Check back again later" is displayed to the drivers without shipments.
-![Demo of App](demo.png)
+![Demo of App](demo.png?raw=true "Demo of Platform Acme")
 
 ## Matching Approach
 This app is a demonstration of the assignment problem and is solved using the Hungarian Algorithm.
