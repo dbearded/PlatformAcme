@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Platform Acme</string>
+    <string name="address">Address</string>
+    <string name="driver">Driver</string>
+</resources>
